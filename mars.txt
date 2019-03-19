@@ -1,6 +1,14 @@
 Cold and dry, but everything is my favorite color.
 The two moons may be a problem for Wolfman.
 But the mummy will appreciate the lack of humidity.
+<<<<<<< HEAD
 Add to Megan's copy.
 I'm making changes.
 Still making changes.
+=======
+<<<<<<< HEAD
+Mars is red.
+Nothing new here.
+
+>>>>>>> a6c232f30c82340a402ad1b57c9fa556201f0547
+>>>>>>> 6eadbcb0ef2e7c7769b3278c5088ccc8c98310f9
